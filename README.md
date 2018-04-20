@@ -1,3 +1,4 @@
 # TrentLotteryContract
 eos smart contract
-hello
+hello contract
+
