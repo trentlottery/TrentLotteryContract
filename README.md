@@ -1,0 +1,2 @@
+# TrentLotteryContract
+eos smart contract
